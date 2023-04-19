@@ -1,0 +1,77 @@
+{
+    "proposed_schedule": {
+        "1": [
+            "Graham-Based Modern",
+            "Contemporary"
+        ],
+        "2": [
+            "Graham-Based Modern",
+            "Body Conditioning"
+        ],
+        "3": [
+            "Graham-Based Modern",
+            "Body Conditioning"
+        ],
+        "4": [
+            "Jazz",
+            "Choreography-Improvisation"
+        ],
+        "5": [
+            "Graham-Based Modern",
+            "Body Conditioning"
+        ]
+    },
+    "recommended_instructors": {
+        "1": {
+            "Graham-Based Modern": [
+                "instructor_91",
+                "instructor_88"
+            ],
+            "Contemporary": [
+                "instructor_91",
+                "instructor_88"
+            ]
+        },
+        "2": {
+            "Graham-Based Modern": [
+                "instructor_62",
+                "instructor_14"
+            ],
+            "Body Conditioning": [
+                "instructor_62",
+                "instructor_14"
+            ]
+        },
+        "3": {
+            "Graham-Based Modern": [
+                "instructor_91",
+                "instructor_62"
+            ],
+            "Body Conditioning": [
+                "instructor_95",
+                "instructor_62"
+            ]
+        },
+        "4": {
+            "Jazz": [
+                "instructor_71",
+                "instructor_44"
+            ],
+            "Choreography-Improvisation": [
+                "instructor_71",
+                "instructor_59"
+            ]
+        },
+        "5": {
+            "Graham-Based Modern": [
+                "instructor_91",
+                "instructor_62"
+            ],
+            "Body Conditioning": [
+                "instructor_95",
+                "instructor_62"
+            ]
+        }
+    },
+    "total_trust_score": 222.88
+}

@@ -1,6 +1,10 @@
 import json
 
 def trust_score(expertise, tenure, ratings, cost_index, max_cost_index):
+    """
+    Calculate the trust score for an instructor based on expertise, tenure, ratings, and cost.
+    The weight reflects the importance of each factor, which is dependent on the business.
+    """
     expertise_weight = 0.5
     tenure_weight = 0.25
     ratings_weight = 0.25
