@@ -74,11 +74,11 @@ def generate_recommendation(session_id):
     return recommendations
 
 # Just for demonstration purposes
-session_id = create_user_session(questions, choices)
-print(f"Your session ID is {session_id}.")
-recommendations = generate_recommendation(session_id)
-time.sleep(5)
-print("Generating recommendations...")
-time.sleep(5)
-print(f"The recommendations for {session_id}:")
-print(recommendations)
+# session_id = create_user_session(questions, choices)
+# print(f"Your session ID is {session_id}.")
+# recommendations = generate_recommendation(session_id)
+# time.sleep(5)
+# print("Generating recommendations...")
+# time.sleep(5)
+# print(f"The recommendations for {session_id}:")
+# print(recommendations)
