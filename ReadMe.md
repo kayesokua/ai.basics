@@ -4,18 +4,18 @@ This repository contains a variety of basic applications of artificial intellige
 
 ## Reasoning: Training Recommendation
 
-The recommendation chatbot helps users pick the right exercises based on the techniques they want to learn, their skill level, focus, and intensity level. The chatbot uses a decision tree model to learn patterns and relationships between these inputs and recommendations. Once trained, the model can make predictions for new inputs, recommending the appropriate exercises based on what it has learned from previous user sessions.
+The recommendation chatbot helps users pick the right exercises based on the techniques they want to learn, their skill level, focus, and intensity level. The chatbot uses a decision tree model to learn patterns and relationships between these inputs and recommendations. The model predicts the recommendation based on the best matching label found using the Jaccard similarity.
 
 **To run this application:**
 
 ```terminal
 cd/reasoning
 
-# Create chat session
-python 1_generate_chat.py
+# Generate random chats with generated recomendations
+python seed.py
 
-# Train the model based on the session data available
-python 2_decision_tree.py
+# Generate recommendation based on keyword
+python chat.py
 ```
 
 ## Optimization: Schedule Optimization
