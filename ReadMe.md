@@ -1,6 +1,6 @@
 # Artificial Intelligence Basic Applications
 
-This repository contains a variety of basic applications of artificial intelligence in different areas, aimed at helping people learn more about the potential uses of AI. The applications have been specifically developed with the dance industry in mind.
+This repository contains a variety of basic applications of artificial intelligence in different areas, for the purpose of learning. The applications have been specifically developed with the dance industry in mind.
 
 ## Reasoning: Training Recommendation
 
