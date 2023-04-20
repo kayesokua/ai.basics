@@ -1,0 +1,47 @@
+{
+    "id": "65ce1f5b-d0a5-4487-b3bf-c0033af30c55",
+    "song": [
+        {
+            "name": "Ambient Emotive Mood - Parker Bell",
+            "preview_url": "https://p.scdn.co/mp3-preview/bfcaa38938be3ff84b59b66a18d1f0a9bb5b7e77?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Hip Circles",
+        "1": "Sliding",
+        "2": "Pirouette",
+        "3": "Developp\u00e9",
+        "4": "Attitude",
+        "5": "Pas de Bourr\u00e9e",
+        "6": "Sliding",
+        "7": "Pli\u00e9",
+        "8": "Fouett\u00e9",
+        "9": "Pique turn",
+        "10": "Rond de Jambe",
+        "11": "Scissor step",
+        "12": "Chass\u00e9",
+        "13": "Grande Battement",
+        "14": "Chass\u00e9",
+        "15": "Rond de Jambe",
+        "16": "Rolling on the floor",
+        "17": "Jazz Jump"
+    },
+    "wishlist": [],
+    "blacklist": [
+        "Tour en l'air",
+        "Port de Bras",
+        "Grapevines",
+        "Side Shuffles",
+        "Pivot Turns",
+        "Attitude Pose",
+        "Curtsy",
+        "Shoulder Shrug",
+        "Leg Swings",
+        "Shoulder Rolls",
+        "Jet\u00e9",
+        "Hip Roll",
+        "Bow",
+        "High Kick"
+    ],
+    "goal": "learn"
+}

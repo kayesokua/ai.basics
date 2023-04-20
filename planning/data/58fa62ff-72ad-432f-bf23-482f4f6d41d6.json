@@ -1,0 +1,44 @@
+{
+    "id": "58fa62ff-72ad-432f-bf23-482f4f6d41d6",
+    "song": [
+        {
+            "name": "Mysterious Emotive Mood - Glenn Cartier",
+            "preview_url": "https://p.scdn.co/mp3-preview/0c47fd3c9397f14130f3521b9be869a20f791dbe?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Foot Slides",
+        "1": "Step touch",
+        "2": "Glissade",
+        "3": "Developp\u00e9",
+        "4": "Arabesque",
+        "5": "Arabesque",
+        "6": "Tendus",
+        "7": "Chaines",
+        "8": "Pas de Bourr\u00e9e",
+        "9": "Arabesque",
+        "10": "Scoot",
+        "11": "Jet\u00e9",
+        "12": "Port de Bras",
+        "13": "Pli\u00e9",
+        "14": "Standing Split",
+        "15": "Jet\u00e9",
+        "16": "Hop shuffle",
+        "17": "Floor Slide"
+    },
+    "wishlist": [
+        "Curtsy",
+        "Standing Split",
+        "Scoot",
+        "Tendus",
+        "Jet\u00e9"
+    ],
+    "blacklist": [
+        "Leg Swings",
+        "Jazz Jump",
+        "Step Touches",
+        "Attitude",
+        "Toe Taps"
+    ],
+    "goal": "improve"
+}

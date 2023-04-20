@@ -1,0 +1,47 @@
+{
+    "id": "22d2ae59-a891-4ff7-a18c-201d15820e29",
+    "song": [
+        {
+            "name": "Heliopolis Beach - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/1b91da5b562227f1e9f2ea0fe27deddaab313170?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Foot Slides",
+        "1": "Twist turn",
+        "2": "Saut\u00e9",
+        "3": "Pique turn",
+        "4": "Attitude",
+        "5": "Attitude",
+        "6": "Saut\u00e9 arabesque",
+        "7": "Rond de Jambe",
+        "8": "Arabesque",
+        "9": "Glissade",
+        "10": "Attitude",
+        "11": "Leap",
+        "12": "Pli\u00e9",
+        "13": "Rond de Jambe",
+        "14": "Pique turn",
+        "15": "Chaines",
+        "16": "Hop shuffle",
+        "17": "Forward Roll"
+    },
+    "wishlist": [],
+    "blacklist": [
+        "Tour en l'air",
+        "Port de Bras",
+        "Grapevines",
+        "Side Shuffles",
+        "Pivot Turns",
+        "Attitude Pose",
+        "Curtsy",
+        "Shoulder Shrug",
+        "Leg Swings",
+        "Shoulder Rolls",
+        "Jet\u00e9",
+        "Hip Roll",
+        "Bow",
+        "High Kick"
+    ],
+    "goal": "learn"
+}

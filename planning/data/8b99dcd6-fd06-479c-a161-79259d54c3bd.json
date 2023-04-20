@@ -1,0 +1,44 @@
+{
+    "id": "8b99dcd6-fd06-479c-a161-79259d54c3bd",
+    "song": [
+        {
+            "name": "Departure - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/2360a007e8bc896a71bc7f3a489958c0f08a56a6?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Side Shuffles",
+        "1": "Pivot turn",
+        "2": "Chaines",
+        "3": "Glissade",
+        "4": "Developp\u00e9",
+        "5": "Pique turn",
+        "6": "Leap",
+        "7": "Scoot",
+        "8": "Pirouette",
+        "9": "Tendus",
+        "10": "Jet\u00e9",
+        "11": "Reverse turn",
+        "12": "Curtsy",
+        "13": "Arabesque",
+        "14": "Saut\u00e9",
+        "15": "Grand Jet\u00e9",
+        "16": "Chasse pas de bourr\u00e9e",
+        "17": "Jazz Hands"
+    },
+    "wishlist": [
+        "Curtsy",
+        "Standing Split",
+        "Scoot",
+        "Tendus",
+        "Jet\u00e9"
+    ],
+    "blacklist": [
+        "Leg Swings",
+        "Jazz Jump",
+        "Step Touches",
+        "Attitude",
+        "Toe Taps"
+    ],
+    "goal": "improve"
+}

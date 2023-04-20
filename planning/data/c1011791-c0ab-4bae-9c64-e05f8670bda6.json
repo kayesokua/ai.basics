@@ -1,0 +1,44 @@
+{
+    "id": "c1011791-c0ab-4bae-9c64-e05f8670bda6",
+    "song": [
+        {
+            "name": "Ambient Emotive Mood - Parker Bell",
+            "preview_url": "https://p.scdn.co/mp3-preview/bfcaa38938be3ff84b59b66a18d1f0a9bb5b7e77?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Grapevines",
+        "1": "Hop",
+        "2": "Pirouette",
+        "3": "Curtsy",
+        "4": "Chaines",
+        "5": "Jet\u00e9",
+        "6": "Sliding",
+        "7": "Rond de Jambe",
+        "8": "Tendus",
+        "9": "Arabesque",
+        "10": "Tour en l'air",
+        "11": "Scoot",
+        "12": "Rond de Jambe",
+        "13": "Rond de Jambe",
+        "14": "Fouett\u00e9",
+        "15": "Saut\u00e9",
+        "16": "Standing Split",
+        "17": "Pirouette"
+    },
+    "wishlist": [
+        "Curtsy",
+        "Standing Split",
+        "Scoot",
+        "Tendus",
+        "Jet\u00e9"
+    ],
+    "blacklist": [
+        "Leg Swings",
+        "Jazz Jump",
+        "Step Touches",
+        "Attitude",
+        "Toe Taps"
+    ],
+    "goal": "improve"
+}

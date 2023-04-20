@@ -1,0 +1,47 @@
+{
+    "id": "12a2fbe9-5c4d-4161-b9f5-c90139ac220c",
+    "song": [
+        {
+            "name": "Suspense - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/6201414d8215914230e3ca186a7362a44935befd?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Arm Swings",
+        "1": "Scoot",
+        "2": "Developp\u00e9",
+        "3": "Rond de Jambe",
+        "4": "Chass\u00e9",
+        "5": "Rond de Jambe",
+        "6": "Step ball change",
+        "7": "Arabesque",
+        "8": "Saut\u00e9",
+        "9": "Glissade",
+        "10": "Saut\u00e9",
+        "11": "Hop",
+        "12": "Battement",
+        "13": "Chaines",
+        "14": "Rond de Jambe",
+        "15": "Chass\u00e9",
+        "16": "Pas de chat",
+        "17": "Arm Wave"
+    },
+    "wishlist": [],
+    "blacklist": [
+        "Tour en l'air",
+        "Port de Bras",
+        "Grapevines",
+        "Side Shuffles",
+        "Pivot Turns",
+        "Attitude Pose",
+        "Curtsy",
+        "Shoulder Shrug",
+        "Leg Swings",
+        "Shoulder Rolls",
+        "Jet\u00e9",
+        "Hip Roll",
+        "Bow",
+        "High Kick"
+    ],
+    "goal": "learn"
+}
