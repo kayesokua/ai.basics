@@ -140,3 +140,5 @@ with open('data/final_proposed_schedule.json', 'w') as f:
     json.dump({'proposed_schedule': proposed_program_schedule,
                'recommended_instructors': recommended_instructors,
                'total_trust_score': total_trust_score}, f, indent=4)
+
+print("Final proposed schedule can be found in data/final_proposed_schedule.json")

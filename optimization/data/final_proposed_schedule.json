@@ -1,8 +1,8 @@
 {
     "proposed_schedule": {
         "1": [
-            "Graham-Based Modern",
-            "Contemporary"
+            "Contemporary",
+            "Graham-Based Modern"
         ],
         "2": [
             "Graham-Based Modern",
@@ -10,7 +10,7 @@
         ],
         "3": [
             "Graham-Based Modern",
-            "Body Conditioning"
+            "Jazz"
         ],
         "4": [
             "Jazz",
@@ -23,11 +23,11 @@
     },
     "recommended_instructors": {
         "1": {
-            "Graham-Based Modern": [
+            "Contemporary": [
                 "instructor_91",
                 "instructor_88"
             ],
-            "Contemporary": [
+            "Graham-Based Modern": [
                 "instructor_91",
                 "instructor_88"
             ]
@@ -47,9 +47,9 @@
                 "instructor_91",
                 "instructor_62"
             ],
-            "Body Conditioning": [
-                "instructor_95",
-                "instructor_62"
+            "Jazz": [
+                "instructor_71",
+                "instructor_33"
             ]
         },
         "4": {
@@ -73,5 +73,5 @@
             ]
         }
     },
-    "total_trust_score": 222.88
+    "total_trust_score": 222.46
 }
