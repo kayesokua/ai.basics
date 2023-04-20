@@ -1,5 +1,7 @@
 # Artificial Intelligence Basic Applications
 
+This repository contains a variety of basic applications of artificial intelligence in different areas, aimed at helping people learn more about the potential uses of AI. The applications have been specifically developed with the dance industry in mind.
+
 ## Reasoning: Training Recommendation
 
 The recommendation chatbot helps users pick the right exercises based on the techniques they want to learn, their skill level, focus, and intensity level. The chatbot uses a decision tree model to learn patterns and relationships between these inputs and recommendations. Once trained, the model can make predictions for new inputs, recommending the appropriate exercises based on what it has learned from previous user sessions.
