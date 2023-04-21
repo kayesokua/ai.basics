@@ -1,77 +1,77 @@
 {
     "proposed_schedule": {
         "1": [
-            "Contemporary",
-            "Graham-Based Modern"
+            "Ballet",
+            "Body Conditioning"
         ],
         "2": [
-            "Graham-Based Modern",
+            "Ballet",
             "Body Conditioning"
         ],
         "3": [
-            "Graham-Based Modern",
-            "Jazz"
+            "Ballet",
+            "Graham-Based Modern"
         ],
         "4": [
-            "Jazz",
-            "Choreography-Improvisation"
+            "Body Conditioning",
+            "Graham-Based Modern"
         ],
         "5": [
-            "Graham-Based Modern",
-            "Body Conditioning"
+            "Ballet",
+            "Contemporary"
         ]
     },
     "recommended_instructors": {
         "1": {
-            "Contemporary": [
-                "instructor_91",
-                "instructor_88"
+            "Ballet": [
+                "instructor_16",
+                "instructor_11"
             ],
-            "Graham-Based Modern": [
-                "instructor_91",
-                "instructor_88"
+            "Body Conditioning": [
+                "instructor_13",
+                "instructor_11"
             ]
         },
         "2": {
-            "Graham-Based Modern": [
-                "instructor_62",
-                "instructor_14"
+            "Ballet": [
+                "instructor_20",
+                "instructor_47"
             ],
             "Body Conditioning": [
-                "instructor_62",
-                "instructor_14"
+                "instructor_15",
+                "instructor_47"
             ]
         },
         "3": {
-            "Graham-Based Modern": [
-                "instructor_91",
-                "instructor_62"
+            "Ballet": [
+                "instructor_17",
+                "instructor_23"
             ],
-            "Jazz": [
-                "instructor_71",
-                "instructor_33"
+            "Graham-Based Modern": [
+                "instructor_17",
+                "instructor_23"
             ]
         },
         "4": {
-            "Jazz": [
-                "instructor_71",
-                "instructor_44"
+            "Body Conditioning": [
+                "instructor_13",
+                "instructor_15"
             ],
-            "Choreography-Improvisation": [
-                "instructor_71",
-                "instructor_59"
+            "Graham-Based Modern": [
+                "instructor_13",
+                "instructor_17"
             ]
         },
         "5": {
-            "Graham-Based Modern": [
-                "instructor_91",
-                "instructor_62"
+            "Ballet": [
+                "instructor_16",
+                "instructor_11"
             ],
-            "Body Conditioning": [
-                "instructor_95",
-                "instructor_62"
+            "Contemporary": [
+                "instructor_16",
+                "instructor_49"
             ]
         }
     },
-    "total_trust_score": 222.46
+    "total_trust_score": 159.91
 }

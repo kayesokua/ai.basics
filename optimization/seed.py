@@ -16,9 +16,9 @@ def generate_mock_instructors(size):
         expertise = {}
         topics = random.sample(program_topics, 2)
         for topic in topics:
-            expertise[topic] = random.randint(1, 8)
-        rate_per_hour = round(random.uniform(50, 100))
-        tenure = round(random.uniform(1, 5))
+            expertise[topic] = random.randint(2, 8)
+        rate_per_hour = round(random.uniform(50, 120))
+        tenure = round(random.uniform(0, 6))
         availability = random.sample(range(1, 6), 3)
         if 1 in availability and 2 in availability:
             availability.remove(2)
@@ -36,7 +36,7 @@ def generate_mock_instructors(size):
     instructors = dict(sorted(instructors.items(), key=lambda x: x[1]["rate_per_hour"]))
 
     with open('data/instructors.json', 'w') as f:
-        json.dump(instructors, f)
+        json.dump(instructors, f, indent=4)
 
     return print(f"Generated {size} mock instructors")
 
@@ -45,10 +45,10 @@ def trust_score(expertise, tenure, ratings, cost_index, max_cost_index):
     Calculate the trust score for an instructor based on expertise, tenure, ratings, and cost.
     The scoring system represents the business's priorities.
     """
-    expertise_weight = 0.5
+    expertise_weight = 0.25
     tenure_weight = 0.25
     ratings_weight = 0.25
-    cost_weight = 0.2 * ((max_cost_index - cost_index) / max_cost_index)
+    cost_weight = 0.25 * ((max_cost_index - cost_index) / max_cost_index)
     return (expertise * expertise_weight) + (tenure * tenure_weight) + (ratings * ratings_weight) + (cost_weight)
 
 def generate_trust_score(json_data):
@@ -76,5 +76,5 @@ def generate_trust_score(json_data):
     print(f"Generated trust score for {len(instructors_with_trust_score)} instructors")
     return instructors_with_trust_score
 
-generate_mock_instructors(size=100)
+generate_mock_instructors(size=50)
 generate_trust_score(json_data="data/instructors.json")
