@@ -11,6 +11,11 @@ __pycache__
 *.pyc
 *.pyo
 *.pyd
+*.mp4
+*.h5
+*.joblib
+*.npy
+*/keyfile.json
 
 # Ignore virtual environment directories
 .venv/
