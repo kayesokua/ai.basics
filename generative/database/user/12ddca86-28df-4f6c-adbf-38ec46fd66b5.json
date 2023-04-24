@@ -1,0 +1,82 @@
+{
+    "id": "12ddca86-28df-4f6c-adbf-38ec46fd66b5",
+    "date": "2023-05-03 01:37:57",
+    "mood": "regret",
+    "song": [
+        {
+            "name": "Regret - Moody Version - NicKThEStiCk",
+            "preview_url": "https://p.scdn.co/mp3-preview/9bb719c651e2064c8179a5f3cc78dc174d5e73c4?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Pivot turn",
+        "1": "Saut\u00e9",
+        "2": "Chaines",
+        "3": "Arm Wave",
+        "4": "Tendus",
+        "5": "Toe Taps",
+        "6": "Saut\u00e9",
+        "7": "Toe Taps",
+        "8": "Stag leap",
+        "9": "Plies",
+        "10": "Leap",
+        "11": "Saut\u00e9 arabesque",
+        "12": "Stag leap",
+        "13": "Tendus",
+        "14": "Sway Steps",
+        "15": "Glissade",
+        "16": "Toe Taps",
+        "17": "Grapevines",
+        "18": "Sliding",
+        "19": "Leap",
+        "20": "Sway Steps",
+        "21": "Grapevines",
+        "22": "Arm Wave",
+        "23": "Tendus"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies",
+        "Floor Slide",
+        "Stag leap",
+        "Backbend",
+        "Chasse pas de bourr\u00e9e",
+        "Sway Steps",
+        "Toe Taps",
+        "Attitude",
+        "Hop shuffle",
+        "Grapevines",
+        "Rond de Jambe",
+        "High Kick",
+        "Bow",
+        "Saut\u00e9",
+        "Glissade",
+        "Saut\u00e9 arabesque",
+        "Port de Bras",
+        "Reverse turn",
+        "Arm Wave",
+        "Chaines"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "improve",
+    "success": false
+}

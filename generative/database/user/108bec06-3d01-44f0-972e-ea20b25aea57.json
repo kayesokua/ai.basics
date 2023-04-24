@@ -1,0 +1,82 @@
+{
+    "id": "108bec06-3d01-44f0-972e-ea20b25aea57",
+    "date": "2023-05-07 01:37:58",
+    "mood": "sunny",
+    "song": [
+        {
+            "name": "Thrilling Restful Weekdays - Jazz du Matin",
+            "preview_url": "https://p.scdn.co/mp3-preview/068c207a6c6a74bd9a127eaa3e471906bf7f7e85?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Pas de chat",
+        "1": "Saut\u00e9 arabesque",
+        "2": "Backbend",
+        "3": "Rond de Jambe",
+        "4": "Port de Bras",
+        "5": "Pivot turn",
+        "6": "Knee Raises",
+        "7": "High Kick",
+        "8": "Bow",
+        "9": "Scoot",
+        "10": "Backbend",
+        "11": "Chasse pas de bourr\u00e9e",
+        "12": "Grapevines",
+        "13": "Reverse turn",
+        "14": "Scoot",
+        "15": "Pivot turn",
+        "16": "Reverse turn",
+        "17": "Backbend",
+        "18": "Grapevines",
+        "19": "Saut\u00e9",
+        "20": "Bow",
+        "21": "Chasse pas de bourr\u00e9e",
+        "22": "Scoot",
+        "23": "Chaines"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies",
+        "Floor Slide",
+        "Stag leap",
+        "Backbend",
+        "Chasse pas de bourr\u00e9e",
+        "Sway Steps",
+        "Toe Taps",
+        "Attitude",
+        "Hop shuffle",
+        "Grapevines",
+        "Rond de Jambe",
+        "High Kick",
+        "Bow",
+        "Saut\u00e9",
+        "Glissade",
+        "Saut\u00e9 arabesque",
+        "Port de Bras",
+        "Reverse turn",
+        "Arm Wave",
+        "Chaines"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "review",
+    "success": false
+}

@@ -1,0 +1,80 @@
+{
+    "id": "cc1220b4-508c-4b9d-8170-475e66f15a45",
+    "date": "2023-05-08 02:00:09",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Suspense - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/6201414d8215914230e3ca186a7362a44935befd?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Rond de Jambe",
+        "1": "Pivot turn",
+        "2": "Glissade",
+        "3": "Rond de Jambe",
+        "4": "Leap",
+        "5": "Battement",
+        "6": "Leg Extension",
+        "7": "Battement",
+        "8": "Rond de Jambe",
+        "9": "Shoulder Shrug",
+        "10": "Chaines",
+        "11": "Glissade",
+        "12": "Glissade",
+        "13": "Rond de Jambe",
+        "14": "Shoulder Shrug",
+        "15": "Chasse pas de bourr\u00e9e",
+        "16": "Chaines",
+        "17": "Chasse pas de bourr\u00e9e",
+        "18": "Rond de Jambe",
+        "19": "Battement",
+        "20": "Chaines",
+        "21": "Shoulder Rolls",
+        "22": "Pivot turn",
+        "23": "Shoulder Shrug",
+        "24": "Saut\u00e9",
+        "25": "Chaines",
+        "26": "Chasse pas de bourr\u00e9e",
+        "27": "Saut\u00e9",
+        "28": "Chaines",
+        "29": "Shoulder Rolls",
+        "30": "Battement",
+        "31": "Shoulder Shrug",
+        "32": "Battement",
+        "33": "Battement",
+        "34": "Glissade",
+        "35": "Chaines",
+        "36": "Battement",
+        "37": "Leap",
+        "38": "Battement",
+        "39": "Shoulder Shrug"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "review",
+    "success": true
+}

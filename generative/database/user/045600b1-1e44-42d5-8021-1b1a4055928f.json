@@ -1,0 +1,80 @@
+{
+    "id": "045600b1-1e44-42d5-8021-1b1a4055928f",
+    "date": "2023-05-05 02:00:08",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Cloowney - Strings Chamber Mix - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/e966ecb51a33218fe9c4ba79325ae705c1c73f99?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Leg Extension",
+        "1": "Standing Split",
+        "2": "Pirouette",
+        "3": "Grapevine",
+        "4": "Forward Roll",
+        "5": "Jazz Jump",
+        "6": "Leg Swings",
+        "7": "Chasse pas de bourr\u00e9e",
+        "8": "Sway Steps",
+        "9": "Sway Steps",
+        "10": "Tour en l'air",
+        "11": "Chass\u00e9",
+        "12": "Hip Roll",
+        "13": "Pas de Bourr\u00e9e",
+        "14": "Arabesque",
+        "15": "High Knees",
+        "16": "Step Touches",
+        "17": "High Kick",
+        "18": "Side Shuffles",
+        "19": "Leap",
+        "20": "Arabesque",
+        "21": "Arm Wave",
+        "22": "Pivot turn",
+        "23": "Knee Spin",
+        "24": "Foot Slides",
+        "25": "High Knees",
+        "26": "Pivot turn",
+        "27": "Rond de Jambe",
+        "28": "Sway Steps",
+        "29": "Step Touches",
+        "30": "Leap",
+        "31": "Drag step",
+        "32": "Grand Jet\u00e9",
+        "33": "Grande Battement",
+        "34": "Cross-Steps",
+        "35": "Floor Slide",
+        "36": "Hip Roll",
+        "37": "Pirouette",
+        "38": "Fouett\u00e9",
+        "39": "Scissor step"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "learn",
+    "success": false
+}

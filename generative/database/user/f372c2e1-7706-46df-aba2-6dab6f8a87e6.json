@@ -1,0 +1,55 @@
+{
+    "id": "f372c2e1-7706-46df-aba2-6dab6f8a87e6",
+    "date": "2023-04-28 01:37:56",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Mysterious Emotive Mood - Glenn Cartier",
+            "preview_url": "https://p.scdn.co/mp3-preview/0c47fd3c9397f14130f3521b9be869a20f791dbe?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Grapevines",
+        "1": "Step ball change",
+        "2": "Arm Wave",
+        "3": "Port de Bras",
+        "4": "Backbend",
+        "5": "Fouett\u00e9",
+        "6": "Pivot Turns",
+        "7": "Battement",
+        "8": "Port de Bras",
+        "9": "Attitude",
+        "10": "Bow",
+        "11": "Knee Raises",
+        "12": "Pivot Turns",
+        "13": "Bow",
+        "14": "Grande Battement",
+        "15": "Arabesque"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "learn",
+    "success": false
+}

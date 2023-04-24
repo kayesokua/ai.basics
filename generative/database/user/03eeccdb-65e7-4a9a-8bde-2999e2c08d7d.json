@@ -1,0 +1,48 @@
+{
+    "id": "03eeccdb-65e7-4a9a-8bde-2999e2c08d7d",
+    "date": "2023-05-02 02:00:07",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Tension - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/eeb3dba4fc70b81da407327c7c97dc132b51c420?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Leg Extension",
+        "1": "Shoulder Rolls",
+        "2": "Glissade",
+        "3": "Leg Extension",
+        "4": "Leap",
+        "5": "Scoot",
+        "6": "Scoot",
+        "7": "Leap"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "challenge",
+    "success": true
+}

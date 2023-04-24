@@ -1,0 +1,72 @@
+{
+    "id": "194c3ec8-7da8-4fa1-bcbe-530598fd21a2",
+    "date": "2023-04-26 02:00:05",
+    "mood": "regret",
+    "song": [
+        {
+            "name": "Regret - Moody Version - NicKThEStiCk",
+            "preview_url": "https://p.scdn.co/mp3-preview/9bb719c651e2064c8179a5f3cc78dc174d5e73c4?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Rond de Jambe",
+        "1": "Glissade",
+        "2": "Shoulder Rolls",
+        "3": "Shoulder Shrug",
+        "4": "Shoulder Shrug",
+        "5": "Glissade",
+        "6": "Glissade",
+        "7": "Shoulder Rolls",
+        "8": "Glissade",
+        "9": "Rond de Jambe",
+        "10": "Shoulder Shrug",
+        "11": "Saut\u00e9",
+        "12": "Glissade",
+        "13": "Saut\u00e9",
+        "14": "Glissade",
+        "15": "Shoulder Shrug",
+        "16": "Shoulder Rolls",
+        "17": "Saut\u00e9",
+        "18": "Glissade",
+        "19": "Rond de Jambe",
+        "20": "Rond de Jambe",
+        "21": "Shoulder Shrug",
+        "22": "Saut\u00e9",
+        "23": "Glissade",
+        "24": "Shoulder Rolls",
+        "25": "Saut\u00e9",
+        "26": "Shoulder Rolls",
+        "27": "Shoulder Shrug",
+        "28": "Shoulder Rolls",
+        "29": "Saut\u00e9",
+        "30": "Saut\u00e9",
+        "31": "Rond de Jambe"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "challenge",
+    "success": false
+}

@@ -1,0 +1,80 @@
+{
+    "id": "985a5c57-a59f-4871-8144-ac7d0931bc5d",
+    "date": "2023-05-01 02:00:07",
+    "mood": "happy",
+    "song": [
+        {
+            "name": "Relaxing Moods for Happy Dogs - Chill My Pooch",
+            "preview_url": "https://p.scdn.co/mp3-preview/958f9c495d6d4449594aecae90de02d427679e18?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Scoot",
+        "1": "Scoot",
+        "2": "Leap",
+        "3": "Scoot",
+        "4": "Leap",
+        "5": "Rond de Jambe",
+        "6": "Battement",
+        "7": "Rond de Jambe",
+        "8": "Shoulder Rolls",
+        "9": "Rond de Jambe",
+        "10": "Battement",
+        "11": "Glissade",
+        "12": "Shoulder Rolls",
+        "13": "Scoot",
+        "14": "Leap",
+        "15": "Glissade",
+        "16": "Pivot turn",
+        "17": "Glissade",
+        "18": "Scoot",
+        "19": "Scoot",
+        "20": "Pivot turn",
+        "21": "Leap",
+        "22": "Shoulder Shrug",
+        "23": "Scoot",
+        "24": "Battement",
+        "25": "Shoulder Shrug",
+        "26": "Rond de Jambe",
+        "27": "Rond de Jambe",
+        "28": "Leap",
+        "29": "Battement",
+        "30": "Battement",
+        "31": "Leap",
+        "32": "Pivot turn",
+        "33": "Shoulder Rolls",
+        "34": "Pivot turn",
+        "35": "Pivot turn",
+        "36": "Pivot turn",
+        "37": "Glissade",
+        "38": "Pivot turn",
+        "39": "Glissade"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "improve",
+    "success": true
+}

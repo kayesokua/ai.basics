@@ -1,0 +1,47 @@
+{
+    "id": "9f736781-0786-48f5-bd57-0646f1563cbf",
+    "date": "2023-04-30 01:37:56",
+    "mood": "sunny",
+    "song": [
+        {
+            "name": "Walking in Sunny Mood - Sneaker",
+            "preview_url": "https://p.scdn.co/mp3-preview/7e94ed8a2950811a1449cc7734f1497b0b441617?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Scoot",
+        "1": "Pivot turn",
+        "2": "Pirouette",
+        "3": "Plies",
+        "4": "Pirouette",
+        "5": "Pirouette",
+        "6": "Pivot turn",
+        "7": "Pirouette"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "challenge",
+    "success": false
+}

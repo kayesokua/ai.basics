@@ -1,0 +1,56 @@
+{
+    "id": "f56035a2-cd60-42f2-8549-28c77653b661",
+    "date": "2023-05-06 02:00:08",
+    "mood": "gloomy",
+    "song": [
+        {
+            "name": "Moody gloomy doomy moe - Psuk\u00e9",
+            "preview_url": "https://p.scdn.co/mp3-preview/8a0df6692977f2d61afe62d630d9486c7404bc27?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Saut\u00e9",
+        "1": "Leg Extension",
+        "2": "Leap",
+        "3": "Shoulder Shrug",
+        "4": "Leg Extension",
+        "5": "Glissade",
+        "6": "Shoulder Rolls",
+        "7": "Glissade",
+        "8": "Shoulder Shrug",
+        "9": "Chasse pas de bourr\u00e9e",
+        "10": "Pivot turn",
+        "11": "Chaines",
+        "12": "Chaines",
+        "13": "Chasse pas de bourr\u00e9e",
+        "14": "Pivot turn",
+        "15": "Shoulder Rolls"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "feel-good",
+    "success": true
+}

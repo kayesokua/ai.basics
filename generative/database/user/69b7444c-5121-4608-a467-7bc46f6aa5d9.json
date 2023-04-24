@@ -1,0 +1,56 @@
+{
+    "id": "69b7444c-5121-4608-a467-7bc46f6aa5d9",
+    "date": "2023-05-07 02:00:08",
+    "mood": "gloomy",
+    "song": [
+        {
+            "name": "Mood Gloomy - Percy Greene",
+            "preview_url": "https://p.scdn.co/mp3-preview/c7d800ba7cd47fdf7397d61fc5bd633299992995?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Glissade",
+        "1": "Battement",
+        "2": "Rond de Jambe",
+        "3": "Shoulder Shrug",
+        "4": "Shoulder Shrug",
+        "5": "Battement",
+        "6": "Battement",
+        "7": "Glissade",
+        "8": "Shoulder Rolls",
+        "9": "Glissade",
+        "10": "Battement",
+        "11": "Glissade",
+        "12": "Shoulder Shrug",
+        "13": "Leg Extension",
+        "14": "Shoulder Shrug",
+        "15": "Shoulder Shrug"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "improve",
+    "success": false
+}

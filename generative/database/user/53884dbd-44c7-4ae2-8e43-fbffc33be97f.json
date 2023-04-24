@@ -1,0 +1,82 @@
+{
+    "id": "53884dbd-44c7-4ae2-8e43-fbffc33be97f",
+    "date": "2023-05-05 01:37:57",
+    "mood": "happy",
+    "song": [
+        {
+            "name": "Good Mood - Original Song From Paw Patrol: The Movie - Adam Levine",
+            "preview_url": "https://p.scdn.co/mp3-preview/0b73949556e52020747da1d9b02a84eb1e8acb63?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Hop shuffle",
+        "1": "Bow",
+        "2": "Pirouette",
+        "3": "Sway Steps",
+        "4": "Sliding",
+        "5": "Rond de Jambe",
+        "6": "Pirouette",
+        "7": "Grand Jet\u00e9",
+        "8": "Glissade",
+        "9": "Floor Slide",
+        "10": "Port de Bras",
+        "11": "Glissade",
+        "12": "Pivot turn",
+        "13": "Pirouette",
+        "14": "Hop shuffle",
+        "15": "Scissor step",
+        "16": "Port de Bras",
+        "17": "Backbend",
+        "18": "Rond de Jambe",
+        "19": "Plies",
+        "20": "Backbend",
+        "21": "Bow",
+        "22": "Knee Raises",
+        "23": "Sliding"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies",
+        "Floor Slide",
+        "Stag leap",
+        "Backbend",
+        "Chasse pas de bourr\u00e9e",
+        "Sway Steps",
+        "Toe Taps",
+        "Attitude",
+        "Hop shuffle",
+        "Grapevines",
+        "Rond de Jambe",
+        "High Kick",
+        "Bow",
+        "Saut\u00e9",
+        "Glissade",
+        "Saut\u00e9 arabesque",
+        "Port de Bras",
+        "Reverse turn",
+        "Arm Wave",
+        "Chaines"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "improve",
+    "success": false
+}

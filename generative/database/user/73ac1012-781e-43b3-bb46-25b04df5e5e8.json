@@ -1,0 +1,66 @@
+{
+    "id": "73ac1012-781e-43b3-bb46-25b04df5e5e8",
+    "date": "2023-05-06 01:37:58",
+    "mood": "regret",
+    "song": [
+        {
+            "name": "Regrettable Moods - Eximo Blue",
+            "preview_url": "https://p.scdn.co/mp3-preview/6e1f47fb8d0d0c1f85d29cda54df1b1c53b17735?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Scissor step",
+        "1": "Skip",
+        "2": "Glissade",
+        "3": "Hop shuffle",
+        "4": "Attitude",
+        "5": "Bow",
+        "6": "Port de Bras",
+        "7": "Sliding"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies",
+        "Floor Slide",
+        "Stag leap",
+        "Backbend",
+        "Chasse pas de bourr\u00e9e",
+        "Sway Steps",
+        "Toe Taps",
+        "Attitude",
+        "Hop shuffle",
+        "Grapevines",
+        "Rond de Jambe",
+        "High Kick",
+        "Bow",
+        "Saut\u00e9",
+        "Glissade",
+        "Saut\u00e9 arabesque",
+        "Port de Bras",
+        "Reverse turn",
+        "Arm Wave",
+        "Chaines"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "review",
+    "success": false
+}

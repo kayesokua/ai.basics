@@ -1,0 +1,73 @@
+{
+    "id": "e2398c29-b148-447f-a0f1-c9a58b65d930",
+    "date": "2023-05-18 02:00:11",
+    "mood": "regret",
+    "song": [
+        {
+            "name": "Regret & Rainy Mood - Martin Czerny",
+            "preview_url": "https://p.scdn.co/mp3-preview/138a4b9a3127ae8a1e416f4efef31a72b4f461f8?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Scoot",
+        "1": "Chasse pas de bourr\u00e9e",
+        "2": "Frapp\u00e9",
+        "3": "Glissade",
+        "4": "Grand Jet\u00e9",
+        "5": "Port de Bras",
+        "6": "Side Plank",
+        "7": "Scoot"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls",
+        "Frapp\u00e9",
+        "Port de Bras",
+        "High Kick",
+        "Scissor step",
+        "Arabesque",
+        "Stag Leap",
+        "Standing Forward Fold",
+        "Knee Spin",
+        "Side Shuffles",
+        "Forward Roll",
+        "Step Touches",
+        "High Knees",
+        "Pli\u00e9",
+        "Foot Slides",
+        "Arm Swings",
+        "Twist turn",
+        "Pirouette",
+        "Grapevines",
+        "Floor Slide",
+        "Grand Jet\u00e9",
+        "Saut\u00e9 arabesque",
+        "Calf Stretches",
+        "Knee Raises",
+        "Backbend",
+        "Side Plank"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "improve",
+    "success": false
+}

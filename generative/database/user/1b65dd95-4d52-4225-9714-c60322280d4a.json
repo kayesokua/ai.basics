@@ -1,0 +1,72 @@
+{
+    "id": "1b65dd95-4d52-4225-9714-c60322280d4a",
+    "date": "2023-05-03 02:00:07",
+    "mood": "sunny",
+    "song": [
+        {
+            "name": "Energetic Moods for Sunny Morning - Relaxing Jazz Nights",
+            "preview_url": "https://p.scdn.co/mp3-preview/66b02921a66c89388892f45acfaa0e6db9d2e7cf?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Saut\u00e9",
+        "1": "Glissade",
+        "2": "Scoot",
+        "3": "Shoulder Shrug",
+        "4": "Leg Extension",
+        "5": "Glissade",
+        "6": "Chasse pas de bourr\u00e9e",
+        "7": "Leap",
+        "8": "Chasse pas de bourr\u00e9e",
+        "9": "Chaines",
+        "10": "Battement",
+        "11": "Scoot",
+        "12": "Shoulder Rolls",
+        "13": "Scoot",
+        "14": "Battement",
+        "15": "Shoulder Rolls",
+        "16": "Battement",
+        "17": "Battement",
+        "18": "Battement",
+        "19": "Battement",
+        "20": "Saut\u00e9",
+        "21": "Chaines",
+        "22": "Leg Extension",
+        "23": "Chaines",
+        "24": "Glissade",
+        "25": "Pivot turn",
+        "26": "Battement",
+        "27": "Chaines",
+        "28": "Chaines",
+        "29": "Chaines",
+        "30": "Leap",
+        "31": "Glissade"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "feel-good",
+    "success": true
+}

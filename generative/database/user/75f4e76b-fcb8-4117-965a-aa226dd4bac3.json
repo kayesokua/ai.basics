@@ -1,0 +1,72 @@
+{
+    "id": "75f4e76b-fcb8-4117-965a-aa226dd4bac3",
+    "date": "2023-04-28 02:00:05",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Bella Tone - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/36106f7e068b0c988129009360b4ac2dc2a8458e?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Saut\u00e9",
+        "1": "Saut\u00e9",
+        "2": "Battement",
+        "3": "Shoulder Shrug",
+        "4": "Battement",
+        "5": "Chasse pas de bourr\u00e9e",
+        "6": "Glissade",
+        "7": "Pivot turn",
+        "8": "Pivot turn",
+        "9": "Chasse pas de bourr\u00e9e",
+        "10": "Battement",
+        "11": "Glissade",
+        "12": "Shoulder Shrug",
+        "13": "Battement",
+        "14": "Pivot turn",
+        "15": "Saut\u00e9",
+        "16": "Rond de Jambe",
+        "17": "Shoulder Rolls",
+        "18": "Chaines",
+        "19": "Pivot turn",
+        "20": "Saut\u00e9",
+        "21": "Glissade",
+        "22": "Rond de Jambe",
+        "23": "Battement",
+        "24": "Chasse pas de bourr\u00e9e",
+        "25": "Leap",
+        "26": "Rond de Jambe",
+        "27": "Rond de Jambe",
+        "28": "Glissade",
+        "29": "Leap",
+        "30": "Leg Extension",
+        "31": "Rond de Jambe"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "feel-good",
+    "success": true
+}

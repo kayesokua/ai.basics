@@ -37,10 +37,40 @@ python 2_trust_score.py
 python 3_optimize_schedule.py
 ```
 
-## Planning: Sequence Generator
+## Generative: Sequence Generator
 
-*Writing soon*
+The Choreography Planner app generates personalized dance sequences based on user-defined settings such as known movements, blacklisted movements, mood, and learning goals. The app uses a rule-based algorithm and can generate new sequences based on past choices using an LSTM model, promoting "dancing from memory". This results in new, customized dance sequences that match the user's preferences without requiring constant manual input.
+
+```terminal
+cd /generative
+
+# To initialize the planner and generate mock dance sessions
+python planner.py
+
+# To extract features from succesful history
+python 1-extract-features.py
+
+# To create a model using supervised learning
+python 2-model.py
+
+# To predict/generate new sequences from memory
+python 3-model.py
+```
 
 ## Machine Learning
 
-*Writing soon*
+The dance classifier system predicts the dance style of a new video using the YouTube API. The videos are labeled based on a keyword search, and pose features are extracted from frames that are detected using Media Pipe. The system utilizes the pre-trained MobileNetV2 network and a decision tree classifier for modeling.
+
+```terminal
+cd /machine-learning
+
+# To download YouTube videos using a keyword search:
+# Please make sure to use your own credentials in keyfile.json
+python 1-downloader.py
+
+# To extract pose features from the downloaded videos:
+python 2-extract-features.py
+
+# To train the model and predict the dance style:
+python 3-classifier.py
+```

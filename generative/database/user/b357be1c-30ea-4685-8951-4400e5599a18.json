@@ -1,0 +1,79 @@
+{
+    "id": "b357be1c-30ea-4685-8951-4400e5599a18",
+    "date": "2023-05-16 01:38:00",
+    "mood": "regret",
+    "song": [
+        {
+            "name": "Regret - Moody Version - NicKThEStiCk",
+            "preview_url": "https://p.scdn.co/mp3-preview/9bb719c651e2064c8179a5f3cc78dc174d5e73c4?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Toe Taps",
+        "1": "Arm Wave",
+        "2": "Plies",
+        "3": "Chasse pas de bourr\u00e9e",
+        "4": "Step touch",
+        "5": "Arm Wave",
+        "6": "Port de Bras",
+        "7": "Pas de chat"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies",
+        "Floor Slide",
+        "Stag leap",
+        "Backbend",
+        "Chasse pas de bourr\u00e9e",
+        "Sway Steps",
+        "Toe Taps",
+        "Attitude",
+        "Hop shuffle",
+        "Grapevines",
+        "Rond de Jambe",
+        "High Kick",
+        "Bow",
+        "Saut\u00e9",
+        "Glissade",
+        "Saut\u00e9 arabesque",
+        "Port de Bras",
+        "Reverse turn",
+        "Arm Wave",
+        "Chaines",
+        "Hip Roll",
+        "Step ball change",
+        "Shoulder Shrug",
+        "Cartwheel",
+        "Step touch",
+        "Leg Extension",
+        "Jazz Walks",
+        "Forward Roll",
+        "Run and jump",
+        "Grapevine",
+        "Side Plank",
+        "Pivot Turns",
+        "Pivot turn"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "feel-good",
+    "success": true
+}

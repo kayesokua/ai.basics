@@ -1,0 +1,78 @@
+{
+    "id": "269ac682-7fa4-4402-bfb7-2e31d22fd845",
+    "date": "2023-05-12 01:37:59",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Mysterious Emotive Mood - Glenn Cartier",
+            "preview_url": "https://p.scdn.co/mp3-preview/0c47fd3c9397f14130f3521b9be869a20f791dbe?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Leap",
+        "1": "Jazz Walks",
+        "2": "Saut\u00e9",
+        "3": "Saut\u00e9",
+        "4": "Forward Roll",
+        "5": "Pivot turn",
+        "6": "Leg Extension",
+        "7": "Grapevine"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies",
+        "Floor Slide",
+        "Stag leap",
+        "Backbend",
+        "Chasse pas de bourr\u00e9e",
+        "Sway Steps",
+        "Toe Taps",
+        "Attitude",
+        "Hop shuffle",
+        "Grapevines",
+        "Rond de Jambe",
+        "High Kick",
+        "Bow",
+        "Saut\u00e9",
+        "Glissade",
+        "Saut\u00e9 arabesque",
+        "Port de Bras",
+        "Reverse turn",
+        "Arm Wave",
+        "Chaines",
+        "Hip Roll",
+        "Step ball change",
+        "Shoulder Shrug",
+        "Cartwheel",
+        "Step touch",
+        "Leg Extension",
+        "Jazz Walks",
+        "Forward Roll",
+        "Run and jump",
+        "Grapevine",
+        "Side Plank",
+        "Pivot Turns"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "feel-good",
+    "success": true
+}

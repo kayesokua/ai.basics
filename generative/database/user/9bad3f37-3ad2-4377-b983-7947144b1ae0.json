@@ -1,0 +1,70 @@
+{
+    "id": "9bad3f37-3ad2-4377-b983-7947144b1ae0",
+    "date": "2023-04-25 01:37:55",
+    "mood": "nostalgic",
+    "song": [
+        {
+            "name": "Nostalgic Mood - Nicolas Folmer",
+            "preview_url": "https://p.scdn.co/mp3-preview/59fb0439ce87624b5b6bf2efff0e0382ef2b72eb?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Knee Raises",
+        "1": "Skip",
+        "2": "Scissor step",
+        "3": "Plies",
+        "4": "Plies",
+        "5": "Skip",
+        "6": "Knee Raises",
+        "7": "Knee Raises",
+        "8": "Skip",
+        "9": "Scissor step",
+        "10": "Scissor step",
+        "11": "Skip",
+        "12": "Skip",
+        "13": "Plies",
+        "14": "Scissor step",
+        "15": "Scissor step",
+        "16": "Scissor step",
+        "17": "Pivot turn",
+        "18": "Knee Raises",
+        "19": "Scissor step",
+        "20": "Skip",
+        "21": "Knee Raises",
+        "22": "Scissor step",
+        "23": "Skip",
+        "24": "Plies",
+        "25": "Plies",
+        "26": "Knee Raises",
+        "27": "Scissor step",
+        "28": "Pivot turn",
+        "29": "Scissor step",
+        "30": "Skip",
+        "31": "Plies"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "challenge",
+    "success": false
+}

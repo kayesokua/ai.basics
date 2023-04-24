@@ -1,0 +1,79 @@
+{
+    "id": "3a3db1b9-e9ea-43f1-bf15-d89743eaf874",
+    "date": "2023-04-29 01:37:56",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Tension - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/eeb3dba4fc70b81da407327c7c97dc132b51c420?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Leap",
+        "1": "Tendus",
+        "2": "Tendus",
+        "3": "Pirouette",
+        "4": "Plies",
+        "5": "Pirouette",
+        "6": "Leap",
+        "7": "Pivot turn",
+        "8": "Pirouette",
+        "9": "Plies",
+        "10": "Knee Raises",
+        "11": "Tendus",
+        "12": "Sliding",
+        "13": "Leap",
+        "14": "Pivot turn",
+        "15": "Plies",
+        "16": "Tendus",
+        "17": "Scissor step",
+        "18": "Knee Raises",
+        "19": "Leap",
+        "20": "Tendus",
+        "21": "Tendus",
+        "22": "Knee Raises",
+        "23": "Tendus",
+        "24": "Scissor step",
+        "25": "Tendus",
+        "26": "Pirouette",
+        "27": "Tendus",
+        "28": "Pirouette",
+        "29": "Pivot turn",
+        "30": "Scissor step",
+        "31": "Plies",
+        "32": "Tendus",
+        "33": "Pivot turn",
+        "34": "Sliding",
+        "35": "Plies",
+        "36": "Plies",
+        "37": "Leap",
+        "38": "Leap",
+        "39": "Plies"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "improve",
+    "success": false
+}

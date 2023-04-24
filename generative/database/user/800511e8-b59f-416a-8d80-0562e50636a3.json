@@ -1,0 +1,72 @@
+{
+    "id": "800511e8-b59f-416a-8d80-0562e50636a3",
+    "date": "2023-05-11 02:00:09",
+    "mood": "nostalgic",
+    "song": [
+        {
+            "name": "Nostalgic Moods - Sleeping Mozart Relaxing Baby",
+            "preview_url": "https://p.scdn.co/mp3-preview/4700cc69739b49c7ad46b04c679dea98a958b17d?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Glissade",
+        "1": "Battement",
+        "2": "Glissade",
+        "3": "Glissade",
+        "4": "Battement",
+        "5": "Leap",
+        "6": "Battement",
+        "7": "Battement",
+        "8": "Glissade",
+        "9": "Shoulder Rolls",
+        "10": "Glissade",
+        "11": "Leap",
+        "12": "Leap",
+        "13": "Leap",
+        "14": "Battement",
+        "15": "Shoulder Rolls",
+        "16": "Shoulder Rolls",
+        "17": "Battement",
+        "18": "Leap",
+        "19": "Leap",
+        "20": "Glissade",
+        "21": "Shoulder Rolls",
+        "22": "Leap",
+        "23": "Leap",
+        "24": "Leap",
+        "25": "Shoulder Rolls",
+        "26": "Shoulder Rolls",
+        "27": "Glissade",
+        "28": "Battement",
+        "29": "Shoulder Rolls",
+        "30": "Glissade",
+        "31": "Glissade"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "challenge",
+    "success": false
+}

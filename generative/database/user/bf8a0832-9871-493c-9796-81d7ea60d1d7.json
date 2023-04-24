@@ -1,0 +1,80 @@
+{
+    "id": "bf8a0832-9871-493c-9796-81d7ea60d1d7",
+    "date": "2023-04-29 02:00:06",
+    "mood": "sunny",
+    "song": [
+        {
+            "name": "Energetic Moods for Sunny Morning - Relaxing Jazz Nights",
+            "preview_url": "https://p.scdn.co/mp3-preview/66b02921a66c89388892f45acfaa0e6db9d2e7cf?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Shoulder Rolls",
+        "1": "Rond de Jambe",
+        "2": "Battement",
+        "3": "Glissade",
+        "4": "Pivot turn",
+        "5": "Chaines",
+        "6": "Leap",
+        "7": "Battement",
+        "8": "Glissade",
+        "9": "Battement",
+        "10": "Leg Extension",
+        "11": "Leg Extension",
+        "12": "Chasse pas de bourr\u00e9e",
+        "13": "Chaines",
+        "14": "Chaines",
+        "15": "Battement",
+        "16": "Battement",
+        "17": "Saut\u00e9",
+        "18": "Battement",
+        "19": "Battement",
+        "20": "Shoulder Shrug",
+        "21": "Shoulder Rolls",
+        "22": "Pivot turn",
+        "23": "Leg Extension",
+        "24": "Chaines",
+        "25": "Chaines",
+        "26": "Shoulder Rolls",
+        "27": "Leg Extension",
+        "28": "Rond de Jambe",
+        "29": "Saut\u00e9",
+        "30": "Chasse pas de bourr\u00e9e",
+        "31": "Pivot turn",
+        "32": "Chaines",
+        "33": "Leg Extension",
+        "34": "Saut\u00e9",
+        "35": "Leg Extension",
+        "36": "Chasse pas de bourr\u00e9e",
+        "37": "Shoulder Shrug",
+        "38": "Leap",
+        "39": "Glissade"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "review",
+    "success": true
+}

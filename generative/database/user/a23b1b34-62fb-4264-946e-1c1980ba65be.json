@@ -1,0 +1,70 @@
+{
+    "id": "a23b1b34-62fb-4264-946e-1c1980ba65be",
+    "date": "2023-04-25 02:00:04",
+    "mood": "gloomy",
+    "song": [
+        {
+            "name": "Gloomy Mood - Chill Lounge Music System",
+            "preview_url": "https://p.scdn.co/mp3-preview/b3974da191a84f559eb0341f8b8cd69e4b4ea166?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Glissade",
+        "1": "Glissade",
+        "2": "Chaines",
+        "3": "Shoulder Rolls",
+        "4": "Chaines",
+        "5": "Battement",
+        "6": "Battement",
+        "7": "Shoulder Rolls",
+        "8": "Leap",
+        "9": "Leap",
+        "10": "Shoulder Rolls",
+        "11": "Leap",
+        "12": "Battement",
+        "13": "Battement",
+        "14": "Leap",
+        "15": "Battement",
+        "16": "Glissade",
+        "17": "Glissade",
+        "18": "Glissade",
+        "19": "Chaines",
+        "20": "Glissade",
+        "21": "Leap",
+        "22": "Chaines",
+        "23": "Chaines",
+        "24": "Shoulder Rolls",
+        "25": "Chaines",
+        "26": "Battement",
+        "27": "Leap",
+        "28": "Glissade",
+        "29": "Glissade",
+        "30": "Shoulder Rolls",
+        "31": "Chaines"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "challenge",
+    "success": true
+}

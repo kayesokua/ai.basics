@@ -1,0 +1,80 @@
+{
+    "id": "100e7744-1ef0-4410-a380-3ff8895a2751",
+    "date": "2023-05-12 02:00:10",
+    "mood": "sunny",
+    "song": [
+        {
+            "name": "Walking in Sunny Mood - Sneaker",
+            "preview_url": "https://p.scdn.co/mp3-preview/7e94ed8a2950811a1449cc7734f1497b0b441617?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Frapp\u00e9",
+        "1": "Port de Bras",
+        "2": "High Kick",
+        "3": "Port de Bras",
+        "4": "Leap",
+        "5": "Scissor step",
+        "6": "Scoot",
+        "7": "Arabesque",
+        "8": "Stag Leap",
+        "9": "Standing Forward Fold",
+        "10": "Knee Spin",
+        "11": "Side Shuffles",
+        "12": "Glissade",
+        "13": "Stag Leap",
+        "14": "Forward Roll",
+        "15": "Knee Spin",
+        "16": "Step Touches",
+        "17": "High Knees",
+        "18": "Pivot turn",
+        "19": "Pli\u00e9",
+        "20": "Leap",
+        "21": "Foot Slides",
+        "22": "Arm Swings",
+        "23": "Port de Bras",
+        "24": "Twist turn",
+        "25": "Pirouette",
+        "26": "Grapevines",
+        "27": "Chasse pas de bourr\u00e9e",
+        "28": "Floor Slide",
+        "29": "Grand Jet\u00e9",
+        "30": "Leap",
+        "31": "Leap",
+        "32": "Foot Slides",
+        "33": "Saut\u00e9 arabesque",
+        "34": "Saut\u00e9 arabesque",
+        "35": "Calf Stretches",
+        "36": "Step Touches",
+        "37": "Knee Raises",
+        "38": "Backbend",
+        "39": "Side Plank"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "learn",
+    "success": true
+}

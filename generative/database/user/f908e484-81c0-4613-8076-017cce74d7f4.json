@@ -1,0 +1,64 @@
+{
+    "id": "f908e484-81c0-4613-8076-017cce74d7f4",
+    "date": "2023-05-10 02:00:09",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Ambient Emotive Mood - Parker Bell",
+            "preview_url": "https://p.scdn.co/mp3-preview/bfcaa38938be3ff84b59b66a18d1f0a9bb5b7e77?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Shoulder Rolls",
+        "1": "Scoot",
+        "2": "Battement",
+        "3": "Leg Extension",
+        "4": "Shoulder Shrug",
+        "5": "Scoot",
+        "6": "Chasse pas de bourr\u00e9e",
+        "7": "Chasse pas de bourr\u00e9e",
+        "8": "Chasse pas de bourr\u00e9e",
+        "9": "Chasse pas de bourr\u00e9e",
+        "10": "Chasse pas de bourr\u00e9e",
+        "11": "Glissade",
+        "12": "Chasse pas de bourr\u00e9e",
+        "13": "Scoot",
+        "14": "Shoulder Shrug",
+        "15": "Scoot",
+        "16": "Shoulder Rolls",
+        "17": "Chasse pas de bourr\u00e9e",
+        "18": "Scoot",
+        "19": "Rond de Jambe",
+        "20": "Chasse pas de bourr\u00e9e",
+        "21": "Shoulder Shrug",
+        "22": "Glissade",
+        "23": "Shoulder Shrug"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "improve",
+    "success": false
+}

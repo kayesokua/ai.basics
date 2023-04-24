@@ -1,0 +1,48 @@
+{
+    "id": "38abf9b1-f19c-453c-a82f-fcc37cfd02b1",
+    "date": "2023-05-09 02:00:09",
+    "mood": "happy",
+    "song": [
+        {
+            "name": "Time On My Hands - Ahmad Jamal",
+            "preview_url": "https://p.scdn.co/mp3-preview/bf22d3c45ce0f228e6032fff754e9f8f6723a47d?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Shoulder Shrug",
+        "1": "Pivot turn",
+        "2": "Leg Extension",
+        "3": "Pivot turn",
+        "4": "Leg Extension",
+        "5": "Scoot",
+        "6": "Shoulder Shrug",
+        "7": "Shoulder Rolls"
+    },
+    "memory": [
+        "Battement",
+        "Shoulder Shrug",
+        "Leg Extension",
+        "Saut\u00e9",
+        "Chasse pas de bourr\u00e9e",
+        "Scoot",
+        "Rond de Jambe",
+        "Leap",
+        "Chaines",
+        "Pivot turn",
+        "Glissade",
+        "Shoulder Rolls"
+    ],
+    "wishlist": [
+        "Shoulder Rolls",
+        "Glissade"
+    ],
+    "blacklist": [
+        "Cartwheel",
+        "Jazz Walks",
+        "Developp\u00e9",
+        "Hop",
+        "Tendus"
+    ],
+    "goal": "challenge",
+    "success": true
+}

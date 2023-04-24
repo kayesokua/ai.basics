@@ -1,0 +1,71 @@
+{
+    "id": "51d57ec3-dd3f-4f4a-b66d-ae49f1ac92c2",
+    "date": "2023-05-01 01:37:57",
+    "mood": "nostalgic",
+    "song": [
+        {
+            "name": "Relaxing Jazz Session - Smooth Jazz 24H",
+            "preview_url": "https://p.scdn.co/mp3-preview/122ede365fdfdde936381157ce86b7d26e5db06b?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Floor Slide",
+        "1": "Stag leap",
+        "2": "Backbend",
+        "3": "Chasse pas de bourr\u00e9e",
+        "4": "Sway Steps",
+        "5": "Toe Taps",
+        "6": "Attitude",
+        "7": "Hop shuffle",
+        "8": "Skip",
+        "9": "Grapevines",
+        "10": "Grapevines",
+        "11": "Pirouette",
+        "12": "Sliding",
+        "13": "Rond de Jambe",
+        "14": "High Kick",
+        "15": "Plies",
+        "16": "Bow",
+        "17": "Hop shuffle",
+        "18": "Saut\u00e9",
+        "19": "Glissade",
+        "20": "Saut\u00e9 arabesque",
+        "21": "Grapevines",
+        "22": "Leap",
+        "23": "Hop shuffle",
+        "24": "Knee Raises",
+        "25": "Port de Bras",
+        "26": "Reverse turn",
+        "27": "Arm Wave",
+        "28": "Pirouette",
+        "29": "Arm Wave",
+        "30": "Chaines",
+        "31": "Saut\u00e9"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "learn",
+    "success": true
+}

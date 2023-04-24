@@ -1,0 +1,55 @@
+{
+    "id": "21bebf6a-cdc6-4cd5-904f-5ed6bf089da1",
+    "date": "2023-04-27 01:37:56",
+    "mood": "emotive",
+    "song": [
+        {
+            "name": "Bella Tone - Mr. Untel",
+            "preview_url": "https://p.scdn.co/mp3-preview/36106f7e068b0c988129009360b4ac2dc2a8458e?cid=120cf2ba518d4279995d46668201617b"
+        }
+    ],
+    "sequence": {
+        "0": "Pivot turn",
+        "1": "Scoot",
+        "2": "Pas de chat",
+        "3": "Pivot turn",
+        "4": "Scoot",
+        "5": "Plies",
+        "6": "Pivot turn",
+        "7": "Plies",
+        "8": "Scoot",
+        "9": "Pivot turn",
+        "10": "Plies",
+        "11": "Pas de chat",
+        "12": "Plies",
+        "13": "Pas de chat",
+        "14": "Pivot turn",
+        "15": "Scoot"
+    },
+    "memory": [
+        "Grand Jet\u00e9",
+        "Scoot",
+        "Tendus",
+        "Leap",
+        "Knee Raises",
+        "Scissor step",
+        "Pas de chat",
+        "Sliding",
+        "Skip",
+        "Pirouette",
+        "Plies"
+    ],
+    "wishlist": [
+        "Pivot turn",
+        "Plies"
+    ],
+    "blacklist": [
+        "Twist turn",
+        "Pique turn",
+        "Pli\u00e9",
+        "Jet\u00e9",
+        "Pivot turn"
+    ],
+    "goal": "challenge",
+    "success": false
+}
