@@ -46,5 +46,7 @@ def extract_video_from_youtube(query, count, output_dir):
     elapsed_time = end_time - start_time
     print(f"Elapsed time: {elapsed_time} seconds")
 
-
-extract_video_from_youtube(query="solo+ballet", count=25, output_dir="train/")
+extract_video_from_youtube(query="ballet", count=5, output_dir="train/")
+extract_video_from_youtube(query="contemporary", count=5, output_dir="train/")
+extract_video_from_youtube(query="kpop", count=5, output_dir="train/")
+extract_video_from_youtube(query="jazz", count=5, output_dir="train/")
