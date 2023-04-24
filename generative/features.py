@@ -79,14 +79,21 @@ def generate_possible_sequence_sets(user_dir):
     return possible_sequences
 
 
+dance_move_to_index = {move: i for i, move in enumerate(all_moves)}
+
+def one_hot_encode_dance_move(move, num_moves=len(all_moves)):
+    one_hot = np.zeros(num_moves)
+    one_hot[dance_move_to_index[move]] = 1
+    return one_hot
+
+def one_hot_encode_sequence(sequence):
+    return np.array([one_hot_encode_dance_move(move) for move in sequence])
+
 def generate_training_data(user_statistics, user_choices):
     X_train = []
     y_train = []
-    limit = 1000
+    limit = 5
     mood_vocabulary = get_all_synonyms(user_statistics["mood"])
-
-    if len(user_statistics["sequence"]["history"]) < limit:
-        return []
 
     for i in range(limit):
         new_playlist = []
@@ -94,9 +101,19 @@ def generate_training_data(user_statistics, user_choices):
             new_playlist = recommend_song_by_mood(random.choice(mood_vocabulary))
         new_song = random.choice(new_playlist)
         old_sequence = np.random.choice(user_statistics["sequence"]["history"])
+        old_sequence = list(old_sequence.values())  # Add this line
         new_sequence = random.sample(user_choices, k=user_statistics["sequence"]["avg_movement"])
-        X_train.append(old_sequence)
-        y_train.append(new_sequence)
+
+        # One-hot encode the sequences
+        old_sequence_encoded = one_hot_encode_sequence(old_sequence)
+        new_sequence_encoded = one_hot_encode_sequence(new_sequence)
+
+        X_train.append(old_sequence_encoded)
+        y_train.append(new_sequence_encoded)
+        print(f"Generated {i+1}/{limit} training data entries")
+
+    print(f"X_train: {X_train}")
+    print(f"y_train: {y_train}")
 
     np.save("X_train.npy", X_train)
     np.save("y_train.npy", y_train)
@@ -105,7 +122,6 @@ def generate_training_data(user_statistics, user_choices):
         raise Exception("X_train and y_train are not the same length")
 
     return print(f"Training data generated, {len(X_train)} entries")
-
 
 user_statistics = generate_user_statistics("database/user")
 user_choices = filter_choices("database/user")
